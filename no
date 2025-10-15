@@ -12,7 +12,6 @@
 <a-scene>
 <!-- ① 背景を360度画像にする -->
 <a-sky src="gassan.jpeg"></a-sky>
-
       <!-- ④ カメラ操作（マウス・スマホで見回せる） -->
 <a-entity camera look-controls></a-entity>
 </a-scene>
